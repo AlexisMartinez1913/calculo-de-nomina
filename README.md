@@ -4,6 +4,6 @@ La nomina es calculada de acuerdo a las horas trabajadas de la persona y según 
  Si el cargo es secretaria el valor base es de $10000 y si el cargo es directivo el valor base es de $30000, estos dos cargos no se les paga horas extras ni subsidio de alimentación y transporte. 
 Todos los cargos pueden tener una bonificación en su salario de acuerdo a su antiguedad en la empresa, si llevan mas de 5 años en la empresa y menos de 10, la bonificación se calcula así (salario * 3.5) / 100 y si llevan mas de 10 años se calcula así: (salario * 6.6) / 100.
 
-##Interfaz Gráfica:
+Interfaz Gráfica:
 
 ![Interfaz grafica](https://firebasestorage.googleapis.com/v0/b/proyecto1cesdeja.appspot.com/o/CapturaNominaC%23.PNG?alt=media&token=4146d10f-fa30-437d-9957-24323f720245)
